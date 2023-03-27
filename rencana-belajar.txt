@@ -3,6 +3,8 @@ RENCANA BELAJAR
 - Matematika
   * Polynomial
   * Lingkaran
-- Pendidikan pancasila
+    ^ Definisi lingkaran
+    ^ Persamaan lingkaran
 - Bahasa Indonesia
+  ^ Majas
 - Agama
