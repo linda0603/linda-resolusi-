@@ -1,5 +1,7 @@
 RENCANA BELAJAR
 
 - Matematika
+  * Polynomial
+  * Lingkaran
 - Bahasa Indonesia
 - Agama
