@@ -3,6 +3,10 @@ RENCANA BELAJAR
 - Matematika
   * Polynomial
   * Lingkaran
+  ^ Matriks
+  ^ Trigonometri
 - Pendidikan pancasila
 - Bahasa Indonesia
+  ^ Cerpen
 - Agama
+- Olahraga
