@@ -4,6 +4,7 @@ RENCANA BELAJAR
   * Polynomial
   * Lingkaran
   ^ Matriks
+  ^ Trigonometri
 - Pendidikan pancasila
 - Bahasa Indonesia
   ^ Cerpen
