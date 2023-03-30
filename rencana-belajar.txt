@@ -3,6 +3,7 @@ RENCANA BELAJAR
 - Matematika
   * Polynomial
   * Lingkaran
+    ^ Definisi
 - Pendidikan pancasila
 - Bahasa Indonesia
   ^ Cerpen
